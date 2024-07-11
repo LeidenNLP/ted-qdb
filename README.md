@@ -13,7 +13,7 @@ In the `data` you'll find:
 
 - `questions.jsonl`: what you are likely interested in: evoked questions, with integrated information about discourse relations, see below.
 - `sources.jsonl`: just the original ted-talks, with their IDs as referred to in the other files.
-- `comparisons.jsonl`: averaged judgments of how 'similar' two questions (evoked by the same snippet) are, on a scale from 0 (unrelated) 3 (equivalent).
+- `similarity.jsonl`: averaged judgments of how 'similar' two questions (evoked by the same snippet) are, on a scale from 0 (unrelated) 3 (equivalent).
 
 ### Fields in `questions.jsonl`
 
